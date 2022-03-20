@@ -14,6 +14,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
+
   # - icon: graduation-cap
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -27,10 +28,10 @@ social:
 # education:
 #   courses: []
 email: litianximail@qq.com
+
+
 superuser: true
 highlight_name: true
 ---
 
 专注于云原生解决方案，kubernetes，prometheus，devops等
-
-
